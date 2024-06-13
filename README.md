@@ -17,6 +17,4 @@ HTML: Structure of the game.
 CSS: Styling for the game board and elements.
 JavaScript: Game logic and interactivity.
 
-
-This description should give potential users and contributors a clear understanding of what the project is and how to use it.
 ~By Shubit Doda
