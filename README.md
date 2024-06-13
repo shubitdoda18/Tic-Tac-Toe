@@ -19,5 +19,4 @@ JavaScript: Game logic and interactivity.
 
 
 This description should give potential users and contributors a clear understanding of what the project is and how to use it.
-
-          ~By Shubit Doda
+~By Shubit Doda
